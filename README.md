@@ -94,6 +94,10 @@ Heureux<br><br>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
 </div>
 
 ###
@@ -114,4 +118,8 @@ Heureux<br><br>
 <h3 align="left">🧰 Tools</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="testing" />
 </div>
