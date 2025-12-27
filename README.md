@@ -35,7 +35,7 @@ Heureux<br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=json" height="40" alt="json" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="json" />
 </div>
 
 ###
