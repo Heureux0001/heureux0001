@@ -119,7 +119,5 @@ Heureux<br><br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="testing" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="pest" />
 </div>
