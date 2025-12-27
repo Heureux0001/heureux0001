@@ -2,6 +2,8 @@
   <img height="150" src="https://media.tenor.com/images/4c1b6f7a1d6f1e3a1f2c9c3b2d5e8a1f/tenor.gif" alt="NGNL GIF" />
 </div>
 
+<div class="tenor-gif-embed" data-postid="17083404" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/ngnl-no-game-no-life-sora-anime-smirk-gif-17083404">Ngnl No Game No Life GIF</a>from <a href="https://tenor.com/search/ngnl-gifs">Ngnl GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ###
 
 <div align="center">
