@@ -17,7 +17,6 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Heureux<br><br>
 - 🔭 Developing for fun<br>
 - 📚 Working across web, backend, and systems programming<br>
 - ⚡ Focus on building and experimenting with new technologies
