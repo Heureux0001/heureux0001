@@ -68,9 +68,3 @@ Heureux<br><br>
 </div>
 
 ###
-
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heureux0001&show_icons=true&theme=dark" height="220" alt="github stats" />
-</div>
