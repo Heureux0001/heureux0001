@@ -27,19 +27,6 @@ Heureux<br><br>
 
 <h3 align="left">🛠 Languages</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-</div>
-
-###
-
-<h3 align="left">🛠 Languages</h3>
-<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
