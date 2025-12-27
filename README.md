@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.tenor.com/images/4c1b6f7a1d6f1e3a1f2c9c3b2d5e8a1f/tenor.gif" alt="NGNL GIF" />
 </div>
 
 ###
